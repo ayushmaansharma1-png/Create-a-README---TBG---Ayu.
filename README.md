@@ -1,14 +1,10 @@
 # Lost in the Shadows
 
-This game is about a salaryman's sleepy dreams turned into an existential crisis.
+This text based game is about a salaryman's sleepy dreams turned into an existential crisis. You can go anywhere from a battlefield to a literal crammed vent that smells like feet.
+The choice (and whatever mishap you conjure) is all in your hands.
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
+# Installation guide
+Python 3.7 is needed to play this game. [Python 3.7](https://www.python.org/downloads/) to install Python. Or additionally, you may choose to download this file and open it with Thonny. 
 
 ## Usage
 
